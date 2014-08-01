@@ -1,25 +1,27 @@
 {
-  "name": "atomanticjokes",
+  "name": "antic",
   "version": "1.0.0",
-  "description": "atomantic's jokes",
+  "description": "antics",
   "preferGlobal": "true",
   "main": "index.js",
   "bin": {
-    "atomanticjokes" : "index.js"
+    "antic" : "index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/atomantic/atomanticjokes"
+    "url": "git://github.com/atomantic/antic"
   },
   "keywords": [
-    "jokes"
+    "jokes",
+    "antics",
+    "one-liner"
   ],
   "author": "Adam Eivy <atomantic@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atomantic/atomanticjokes/issues"
+    "url": "https://github.com/atomantic/antic/issues"
   },
-  "homepage": "https://github.com/atomantic/atomantic",
+  "homepage": "https://github.com/atomantic/antic",
   "dependencies": {
     "lodash.random": "~2.3.0"
   }

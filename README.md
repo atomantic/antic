@@ -1,10 +1,11 @@
-# atomantic's jokes
+# antic
 
-This `atomanticjokes` modules return's some things you might here at a party.
+This `antic` module console logs some things you might here at a party.
 
 ```bash
-npm install -g atomanticjokes;
-atomanticjokes;
+npm install -g antic;
+antic;
+=> Atom walks into a bar. The bartender tells him to split. Everyone dies.
 ```
 
 ## Credit
