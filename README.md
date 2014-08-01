@@ -10,7 +10,9 @@ antic;
 
 ## Credit
 
-Ported from [Terin's Jokes](https://github.com/terinjokes/terinjokes)
+Jokes by Adam Eivy (or learned from some mystic on the mountains)
+
+License curtesy of [Terin's Jokes](https://github.com/terinjokes/terinjokes)
 
 ## License
 THIS PROGRAM IS DISTRIBUTED IN THE HOPE THAT IT WILL BE FUNNY, BUT WITHOUT ANY
