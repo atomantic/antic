@@ -1,7 +1,7 @@
-'use strict';
+#!/usr/bin/env node
+
 var jokes = require('./jokes.json');
 var random = require('lodash.random');
 
-module.exports = function atomanticjokes() {
-	return jokes[random(0, jokes.length-1)];
-};
+var joke = jokes[random(0, jokes.length-1)];
+console.log(joke);

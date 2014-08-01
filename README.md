@@ -2,9 +2,9 @@
 
 This `atomanticjokes` modules return's some things you might here at a party.
 
-```javascript
-var joke = atomanticjokes();
-console.log(joke);
+```bash
+npm install -g atomanticjokes;
+atomanticjokes;
 ```
 
 ## Credit

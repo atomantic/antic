@@ -2,9 +2,10 @@
   "name": "atomanticjokes",
   "version": "0.0.1",
   "description": "atomantic's jokes",
+  "preferGlobal": "true",
   "main": "index.js",
-  "scripts": {
-    "test": "mocha"
+  "bin": {
+    "atomanticjokes" : "index.js"
   },
   "repository": {
     "type": "git",
@@ -20,8 +21,6 @@
   },
   "homepage": "https://github.com/atomantic/atomantic",
   "devDependencies": {
-    "chai": "~1.8.1",
-    "mocha": "~1.14.0"
   },
   "dependencies": {
     "lodash.random": "~2.3.0"
