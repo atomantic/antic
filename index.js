@@ -1,7 +1,10 @@
 #!/usr/bin/env node
 
-var jokes = require('./jokes.json');
 var random = require('lodash.random');
 
-var joke = jokes[random(0, jokes.length-1)];
-console.log(joke);
+var jokes = [
+	"Atom walks into a bar. The bartender tells him to split. Everyone dies.",
+	"A mouse and an elephant are walking across a bridge. The mouse turns to the elephant and says, \"We make a lot of noise.\""
+];
+
+console.log(jokes[random(0, jokes.length-1)]);
