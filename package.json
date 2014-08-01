@@ -1,0 +1,29 @@
+{
+  "name": "atomanticjokes",
+  "version": "0.0.1",
+  "description": "atomantic's jokes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/atomantic/atomanticjokes"
+  },
+  "keywords": [
+    "jokes"
+  ],
+  "author": "Adam Eivy <atomantic@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atomantic/atomanticjokes/issues"
+  },
+  "homepage": "https://github.com/atomantic/atomantic",
+  "devDependencies": {
+    "chai": "~1.8.1",
+    "mocha": "~1.14.0"
+  },
+  "dependencies": {
+    "lodash.random": "~2.3.0"
+  }
+}
