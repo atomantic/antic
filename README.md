@@ -1,6 +1,6 @@
 # antic
 
-This `antic` module console logs some things you might here at a party.
+This `antic` module console logs some things you might hear at a party.
 
 ```bash
 npm install -g antic;
