@@ -1,5 +1,8 @@
 # antic
 
+[![NPM version](https://badge.fury.io/js/antic.svg)](http://badge.fury.io/js/antic)
+![Dependencies](https://david-dm.org/atomantic/antic.png)
+
 This `antic` module console logs some things you might hear at a party.
 
 ```bash

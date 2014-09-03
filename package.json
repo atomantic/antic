@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/atomantic/antic",
   "dependencies": {
-    "lodash.random": "~2.3.0"
+    "lodash.random": "~2.4.1"
   }
 }
