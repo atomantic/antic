@@ -9,6 +9,7 @@ This `antic` module console logs some things you might hear at a party.
 npm install -g antic;
 antic;
 => Atom walks into a bar. The bartender tells him to split. Everyone dies.
+\[^_^]/
 ```
 
 ## Credit
