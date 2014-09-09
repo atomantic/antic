@@ -1,7 +1,11 @@
 # antic
 
-[![NPM version](https://badge.fury.io/js/antic.svg)](http://badge.fury.io/js/antic)
-![Dependencies](https://david-dm.org/atomantic/antic.png)
+[![](http://img.shields.io/gratipay/antic.svg?style=flat)](https://gratipay.com/antic)
+[![](http://img.shields.io/npm/dm/antic.svg?style=flat)](https://www.npmjs.org/package/antic)
+[![](http://img.shields.io/npm/v/antic.svg?style=flat)](https://www.npmjs.org/package/antic)
+[![](http://img.shields.io/codeclimate/github/atomantic/antic.svg?style=flat)](https://codeclimate.com/github/atomantic/antic)
+[![](http://img.shields.io/codeclimate/coverage/github/atomantic/antic.svg?style=flat)](https://codeclimate.com/github/atomantic/antic)
+[![](http://img.shields.io/david/atomantic/antic.svg?style=flat)](https://www.npmjs.org/package/antic)
 
 This `antic` module console logs some things you might hear at a party.
 
