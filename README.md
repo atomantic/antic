@@ -4,7 +4,6 @@
 [![](http://img.shields.io/npm/dm/antic.svg?style=flat)](https://www.npmjs.org/package/antic)
 [![](http://img.shields.io/npm/v/antic.svg?style=flat)](https://www.npmjs.org/package/antic)
 [![](http://img.shields.io/codeclimate/github/atomantic/antic.svg?style=flat)](https://codeclimate.com/github/atomantic/antic)
-[![](http://img.shields.io/codeclimate/coverage/github/atomantic/antic.svg?style=flat)](https://codeclimate.com/github/atomantic/antic)
 [![](http://img.shields.io/david/atomantic/antic.svg?style=flat)](https://www.npmjs.org/package/antic)
 
 This `antic` module console logs some things you might hear at a party.
