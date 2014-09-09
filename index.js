@@ -11,6 +11,7 @@ var jokes = [
 	,'I wish I could love unicorns, but love isn\'t real.'
 	,'Got arrested at the airport. Apparently, security doesn\'t appreciate it when you call "shotgun" before boarding a plane.'
 	,'Hammer walks into a bar. Bartender asks him how work went today. "Nailed it!"'
+    ,'git commit -m "fix typeo"'
 ];
 
 console.log('\n'+jokes[random(0, jokes.length-1)]);
