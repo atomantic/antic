@@ -21,4 +21,5 @@ var jokes = [
     ,'You know why baby ducks walk so softly?\n ⇒ Because they can\'t walk, hardly.'
     ,'I farted on the elevator. It was wrong on so many levels.'
     ,'What do you call a boat that lies on the bottom of the ocean and quivers?\n ⇒ A nervous wreck.'
+    ,'I was going to make a belt out of wrist watches, but then I realized it would be a total waist of time.'
 ];
