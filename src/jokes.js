@@ -1,12 +1,6 @@
 'use strict';
 var random = require('lodash.random');
 
-module.exports = {
-    random: function () {
-        return jokes[random(0, jokes.length-1)];
-    }
-};
-
 var jokes = [
     'Atom walks into a bar. The bartender tells him to split. Everyone dies.'
     ,'A mouse and an elephant are walking across a bridge. The mouse turns to the elephant and says, "We make a lot of noise."'
@@ -22,4 +16,11 @@ var jokes = [
     ,'I farted on the elevator. It was wrong on so many levels.'
     ,'What do you call a boat that lies on the bottom of the ocean and quivers?\n ⇒ A nervous wreck.'
     ,'I was going to make a belt out of wrist watches, but then I realized it would be a total waist of time.'
+    ,'A doe walks out of the woods, "That\'s the last time I do that for two bucks."'
 ];
+
+module.exports = {
+    random: function () {
+        return jokes[random(0, jokes.length-1)];
+    }
+};
