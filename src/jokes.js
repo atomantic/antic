@@ -32,7 +32,7 @@ var jokes = [
     ,'It’s hard to explain puns to kleptomaniacs because they always take things literally.'
     ,'Did you hear about the new corduroy pillows?\n ⇒  They’re making headlines everywhere!'
     ,'I wondered why the baseball was getting bigger. Then it hit me.'
-    ,'I started a band called 999 Megabytes — we haven’t gotten a gig yet.'
+    ,'I started a band called 999 Megabytes — we don’t have a gig yet.'
     ,'What is red and smells like blue paint?\n ⇒ Red paint.'
     ,'Why was six afraid of seven? It wasn’t. Numbers aren’t sentient and thus incapable of feeling fear.'
     ,'A horse walked into a bar. Several people got up and left as they spotted the potential danger in the situation.'
