@@ -9,16 +9,16 @@ var jokes = [
     ,'git commit -m "once more with feeling"'
     ,'git commit -m "synergizing backward overflow for upward mobility"' // thanks to 30 Rock
     ,'Hammer walks into a bar. Bartender asks him how work went today. "Nailed it!"'
+    ,'I wish I could love unicorns, but love isn’t real.'
 
     // found by https://github.com/atomantic
     ,'A mouse and an elephant are walking across a bridge. The mouse turns to the elephant and says, "We make a lot of noise."'
-    ,'Man, I spent a long time at The Gym this morning.\n ⇒ We’ve started calling the bathroom "The Gym".'
-    ,'I wish I could love unicorns, but love isn’t real.'
+    ,'Man, I spent a long time at the Gym this morning.\n ⇒ We’ve started calling the bathroom "the Gym".'
     ,'Got arrested at the airport. Apparently, security doesn’t appreciate it when you call "shotgun" before boarding a plane.'
     ,'You know what you get when you cross a rabbit with a rottweiler?\n ⇒ A rottweiler.'
     ,'You know why baby ducks walk so softly?\n ⇒ Because they can’t walk, hardly.'
     ,'I farted on the elevator.\n ⇒ It was wrong on so many levels.'
-    ,'I was going to make a belt out of wrist watches, but then I realized it would be a total waist of time.'
+    ,'I was going to make a belt out of wrist watches,\n ⇒ but then I realized it would be a total waist of time.'
     ,'A doe walks out of the woods, "That’s the last time I do that for two bucks."'
     ,'You know why dinosours can’t talk?\n ⇒ because they’re dead.'
 
