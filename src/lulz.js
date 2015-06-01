@@ -17,6 +17,6 @@ var lulz = [
 
 module.exports = {
     random: function () {
-        return lulz[random(0, lulz.length-1)];
+        return lulz[random(0, lulz.length - 1)];
     }
 };
