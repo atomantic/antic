@@ -17,6 +17,7 @@ var jokes = [
     ,'Man, I spent a long time at the Gym this morning.\n ⇒ We’ve started calling the bathroom "the Gym".'
     ,'Got arrested at the airport. Apparently, security doesn’t appreciate it when you call "shotgun" before boarding a plane.'
     ,'You know what you get when you cross a rabbit with a rottweiler?\n ⇒ A rottweiler.'
+    ,'You know what you get when you cross a cow with an octopus?\n ⇒ A visit from the ethics committee and immediate withdrawal of your funding.'
     ,'You know why baby ducks walk so softly?\n ⇒ Because they can’t walk, hardly.'
     ,'I farted on the elevator.\n ⇒ It was wrong on so many levels.'
     ,'I was going to make a belt out of wrist watches,\n ⇒ but then I realized it would be a total waist of time.'
