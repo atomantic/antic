@@ -23,6 +23,12 @@ var jokes = [
     ,'I was going to make a belt out of wrist watches,\n ⇒ but then I realized it would be a total waist of time.'
     ,'A doe walks out of the woods, "That’s the last time I do that for two bucks."'
     ,'You know why dinosours can’t talk?\n ⇒ because they’re dead.'
+    ,'I’ve lost my thesaurus. I can’t find the words to describe how upsetting this is.'
+    ,'A woman walked into a bar and asked the bartender for a double entendre. So the bartender gave it to her.'
+    ,'Whoever put the letter ’b’ in the word ’subtle’ deserves a pat on the back.'
+    ,'Whose cruel idea was it for the word ’lisp’ to have an ’s’ in it?'
+    ,'Why is there no other word for thesaurus?'
+    ,'Is there another word for synonym?'
 
     // from https://github.com/guahanweb
     ,'What do you call a boat that lies on the bottom of the ocean and quivers?\n ⇒ A nervous wreck.'
