@@ -14,6 +14,14 @@ antic;
 => Atom walks into a bar. The bartender tells him to split. Everyone dies.
 \[^_^]/
 ```
+## Author
+
+Adam Eivy is a software architect by day and a drawing dad by night. Check out his latest project [Beetle Royale](http://beetleroyale.com) or [follow him on the interwebs](http://adameivy.com)
+
+## Related
+
+If you like this module, check out [antic](https://www.npmjs.com/package/buzzphrase) for synergistic overflow!
+
 
 ## Credit
 
@@ -36,5 +44,5 @@ DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT
 NOT LIMITED TO LOSS OF FRIENDS OR JOKES BEING RENDERED PASSÉ), EVEN IF THE
 AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-> Legal aside: This module is released under the MIT license and the above
+> Legal aside: This module is released under the ISC license and the above
 terms are non-binding.

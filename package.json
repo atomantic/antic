@@ -1,6 +1,6 @@
 {
   "name": "antic",
-  "version": "1.11.0",
+  "version": "1.11.1",
   "description": "antics",
   "preferGlobal": "true",
   "main": "index.js",
@@ -16,8 +16,8 @@
     "antics",
     "one-liner"
   ],
-  "author": "Adam Eivy <atomantic@gmail.com>",
-  "license": "MIT",
+  "author": "Adam Eivy",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/atomantic/antic/issues"
   },
