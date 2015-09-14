@@ -20,7 +20,7 @@ Adam Eivy is a software architect by day and a drawing dad by night. Check out h
 
 ## Related
 
-If you like this module, check out [antic](https://www.npmjs.com/package/buzzphrase) for synergistic overflow!
+If you like this module, check out [buzzphrase](https://www.npmjs.com/package/buzzphrase) for synergistic overflow!
 
 
 ## Credit
