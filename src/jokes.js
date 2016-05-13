@@ -1,7 +1,4 @@
-'use strict';
-var random = require('lodash.random');
-
-var jokes = [
+module.exports = [
     // originals by http://twitter.com/antic
     'Atom walks into a bar. The bartender tells him to split. Everyone dies.'
     ,'A red ball says to a blue ball, "I can bounce higher than you!" The blue ball just sits in silence because it’s an inanimate object with no mouth.'
@@ -20,7 +17,7 @@ var jokes = [
     ,'You know what you get when you cross a cow with an octopus?\n ⇒ A visit from the ethics committee and immediate withdrawal of your funding.'
     ,'You know why baby ducks walk so softly?\n ⇒ Because they can’t walk, hardly.'
     ,'I farted on the elevator.\n ⇒ It was wrong on so many levels.'
-    ,'I was going to make a belt out of wrist watches,\n ⇒ but then I realized it would be a total waist of time.'
+    ,'I once made a belt out of wrist watches; it was a complete waist of time.'
     ,'A doe walks out of the woods, "That’s the last time I do that for two bucks."'
     ,'You know why dinosours can’t talk?\n ⇒ because they’re dead.'
     ,'I’ve lost my thesaurus. I can’t find the words to describe how upsetting this is.'
@@ -45,11 +42,4 @@ var jokes = [
     ,'Why was six afraid of seven? It wasn’t. Numbers aren’t sentient and thus incapable of feeling fear.'
     ,'A horse walked into a bar. Several people got up and left as they spotted the potential danger in the situation.'
     ,'What’s green and has wheels? Grass. I lied about the wheels.'
-
 ];
-
-module.exports = {
-    random: function () {
-        return jokes[random(0, jokes.length - 1)];
-    }
-};
