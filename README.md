@@ -1,3 +1,4 @@
+[![Beerpay](https://beerpay.io/atomantic/antic/badge.svg?style=flat-square)](https://beerpay.io/atomantic/antic)
 # antic
 
 [![](http://img.shields.io/gratipay/antic.svg?style=flat)](https://gratipay.com/antic)
