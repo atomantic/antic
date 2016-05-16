@@ -1,11 +1,13 @@
-[![Beerpay](https://beerpay.io/atomantic/antic/badge.svg?style=flat-square)](https://beerpay.io/atomantic/antic)
-# antic
+[![](https://img.shields.io/npm/dm/antic.svg?style=flat)](https://www.npmjs.org/package/antic)
+[![](https://img.shields.io/npm/v/antic.svg?style=flat)](https://www.npmjs.org/package/antic)
+[![](https://img.shields.io/david/atomantic/antic.svg?style=flat)](https://www.npmjs.org/package/antic)
 
-[![](http://img.shields.io/gratipay/antic.svg?style=flat)](https://gratipay.com/antic)
-[![](http://img.shields.io/npm/dm/antic.svg?style=flat)](https://www.npmjs.org/package/antic)
-[![](http://img.shields.io/npm/v/antic.svg?style=flat)](https://www.npmjs.org/package/antic)
-[![](http://img.shields.io/codeclimate/github/atomantic/antic.svg?style=flat)](https://codeclimate.com/github/atomantic/antic)
-[![](http://img.shields.io/david/atomantic/antic.svg?style=flat)](https://www.npmjs.org/package/antic)
+[![follow](https://img.shields.io/twitter/follow/antic.svg?style=social&label=Follow)
+
+[![gratipay](https://img.shields.io/gratipay/antic.svg?style=flat)](https://gratipay.com/antic)
+[![Beerpay](https://beerpay.io/atomantic/antic/badge.svg?style=flat-square)](https://beerpay.io/atomantic/antic)
+
+# antic
 
 This `antic` module console logs some things you might hear at a party.
 

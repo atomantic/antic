@@ -1,6 +1,6 @@
 {
   "name": "antic",
-  "version": "1.12.0",
+  "version": "1.12.1",
   "description": "antics",
   "preferGlobal": "true",
   "main": "index.js",
