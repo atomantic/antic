@@ -1,11 +1,15 @@
 {
   "name": "antic",
-  "version": "1.12.2",
+  "version": "1.12.3",
   "description": "antics",
   "preferGlobal": "true",
   "main": "index.js",
   "bin": {
     "antic": "index.js"
+  },
+  "scripts": {
+    "postversion": "git push && git push --tags",
+    "test": "./node_modules/mocha/bin/mocha"
   },
   "repository": {
     "type": "git",
@@ -23,6 +27,10 @@
   },
   "homepage": "https://github.com/atomantic/antic",
   "dependencies": {
-    "lodash.sample": "^4.1.1"
+    "lodash.sample": "4.2.0"
+  },
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "3.0.1"
   }
 }

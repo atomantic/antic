@@ -42,4 +42,4 @@ module.exports = [
     ,'Why was six afraid of seven? It wasn’t. Numbers aren’t sentient and thus incapable of feeling fear.'
     ,'A horse walked into a bar. Several people got up and left as they spotted the potential danger in the situation.'
     ,'What’s green and has wheels? Grass. I lied about the wheels.'
-];
+]
