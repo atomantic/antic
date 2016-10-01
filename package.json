@@ -1,6 +1,6 @@
 {
   "name": "antic",
-  "version": "1.12.3",
+  "version": "1.12.4",
   "description": "antics",
   "preferGlobal": "true",
   "main": "index.js",
@@ -27,10 +27,10 @@
   },
   "homepage": "https://github.com/atomantic/antic",
   "dependencies": {
-    "lodash.sample": "4.2.0"
+    "lodash.sample": "4.2.1"
   },
   "devDependencies": {
     "chai": "3.5.0",
-    "mocha": "3.0.1"
+    "mocha": "3.1.0"
   }
 }

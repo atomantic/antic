@@ -26,6 +26,7 @@ module.exports = [
     ,'Whose cruel idea was it for the word ’lisp’ to have an ’s’ in it?'
     ,'Why is there no other word for thesaurus?'
     ,'Is there another word for synonym?'
+    ,'A man falls from the rooftop of a 20 story building. People on the 10th floor hear him falling, "So faaaaar so gooooood!"'
 
     // from https://github.com/guahanweb
     ,'What do you call a boat that lies on the bottom of the ocean and quivers?\n ⇒ A nervous wreck.'
