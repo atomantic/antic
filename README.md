@@ -4,7 +4,7 @@
 
 # antic
 
-This `antic` module console logs some things you might hear at a party.
+This `antic` module console logs some things you might hear at a party or other awkward gathering.
 
 ```bash
 npm install -g antic;
@@ -25,6 +25,10 @@ Adam Eivy is a software architect by day and a drawing dad by night. Check out h
 
 If you like this module, check out [buzzphrase](https://www.npmjs.com/package/buzzphrase) for synergistic overflow!
 
+## Contributions
+
+We accept pull-requests. Go ahead and fork, clone, and add jokes/lulz to your own repo and pull away.
+Please run `npm test` before you make the PR to ensure you haven't foobared a comma or quote ;)
 
 ## Credit
 
