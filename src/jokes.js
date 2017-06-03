@@ -27,6 +27,7 @@ module.exports = [
     ,'Why is there no other word for thesaurus?'
     ,'Is there another word for synonym?'
     ,'A man falls from the rooftop of a 20 story building. People on the 10th floor hear him falling, "So faaaaar so gooooood!"'
+    ,'You know what you call a huge pile of kittens? A meowntain'
 
     // from https://github.com/guahanweb
     ,'What do you call a boat that lies on the bottom of the ocean and quivers?\n ⇒ A nervous wreck.'
