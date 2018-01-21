@@ -27,10 +27,8 @@ module.exports = [
     ,'Why is there no other word for thesaurus?'
     ,'Is there another word for synonym?'
     ,'A man falls from the rooftop of a 20 story building. People on the 10th floor hear him falling, "So faaaaar so gooooood!"'
-    ,'You know what you call a huge pile of kittens? A meowntain'
-
-    // from https://github.com/guahanweb
-    ,'What do you call a boat that lies on the bottom of the ocean and quivers?\n ⇒ A nervous wreck.'
+    ,'A boy says to his mother, "Mom, why is it everyone in our family dies so young?"\n\n"Mother?"\n\n\n"Mother?"'
+    ,'A man goes into a confessional and says, "Father, I\'ve done something terrible. I\'ve murdered a man. And I have these horrible thoughts. I want to kill so many more people. I don\'t know if I can stop myself. What should I do?"\nThe priest says, "My son, the punishment for killing one of Gods children is eternal damnation. You\'d be a fool to stop now."'
 
     // from https://github.com/mycargus
     ,'“I’m sorry” and “I apologize” mean the same thing... except when you’re at a funeral.'
