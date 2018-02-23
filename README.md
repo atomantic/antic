@@ -14,15 +14,16 @@ antic;
 ```
 ## Author
 
-Adam Eivy is a software architect by day and a drawing dad by night. Check out his latest project [Beetle Royale](http://beetleroyale.com) or [follow him on the interwebs](http://adameivy.com)
+Adam Eivy is a software architect by day and a drawing dad by night: [follow him on the interwebs](http://adameivy.com)
 
 ![follow](https://img.shields.io/twitter/follow/antic.svg?style=social&label=Follow)
 
-Got a laugh worthy of a tip?
+Got a giggle worthy of a tip? Still in the dark about crypto? [Coinbase has you covered](https://www.coinbase.com/join/516383ac0fe69a84f2000022)
 
-Bitcoin ($BTC): 1HhJCsht5zDt8T3GM983dTqddXTtcTHV5i
-Ethereum ($ETH): 0x7F0de051DdE6DE5AE36447a5425b144Eb8213e10
-Litecoin ($LTC): LPi2DkdicMQEW6tL1LTXkXDzHri45XDken
+- Bitcoin ($BTC): 1HhJCsht5zDt8T3GM983dTqddXTtcTHV5i
+- Ethereum ($ETH): 0x7F0de051DdE6DE5AE36447a5425b144Eb8213e10
+- Litecoin ($LTC): LPi2DkdicMQEW6tL1LTXkXDzHri45XDken
+
 
 ## Related
 
