@@ -18,8 +18,11 @@ Adam Eivy is a software architect by day and a drawing dad by night. Check out h
 
 ![follow](https://img.shields.io/twitter/follow/antic.svg?style=social&label=Follow)
 
-[![gratipay](https://img.shields.io/gratipay/antic.svg?style=flat)](https://gratipay.com/antic)
-[![Beerpay](https://beerpay.io/atomantic/antic/badge.svg?style=flat-square)](https://beerpay.io/atomantic/antic)
+Got a laugh worthy of a tip?
+
+Bitcoin ($BTC): 1HhJCsht5zDt8T3GM983dTqddXTtcTHV5i
+Ethereum ($ETH): 0x7F0de051DdE6DE5AE36447a5425b144Eb8213e10
+Litecoin ($LTC): LPi2DkdicMQEW6tL1LTXkXDzHri45XDken
 
 ## Related
 
