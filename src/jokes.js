@@ -8,6 +8,7 @@ module.exports = [
     ,'Hammer walks into a bar. Bartender asks him how work went today. "Nailed it!"'
     ,'I wish I could love unicorns, but love isn’t real.'
     ,'A man walks into a bar and ask for a beer.\nThe bartender is a horse but pours one anyway.\nThe man says, "This isn’t a beer," and promptly wakes up in a cold sweat, staring into the loveless eyes of his partner, who has been watching him sleep with a knife raised over his head.\nThe man jolts awake a second time and finds himself back in the bar, holding the glass of liquid.\n"Well, I’ll drink it anyway."\nThe horse says nothing.\n ⇒ That isn’t a joke; it’s your fortune.'
+    ,'The oil excavators attempted to clean up the spill, but it was crude.'
 
     // found by https://github.com/atomantic
     ,'A mouse and an elephant are walking across a bridge. The mouse turns to the elephant and says, "We make a lot of noise."'
