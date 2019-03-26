@@ -16,7 +16,7 @@ antic;
 
 Adam Eivy is a software architect by day and a drawing dad by night: [follow him on the interwebs](http://adameivy.com)
 
-![follow](https://img.shields.io/twitter/follow/antic.svg?style=social&label=Follow)
+[![follow](https://img.shields.io/twitter/follow/antic.svg?style=social&label=Follow)](https://twitter.com/antic)
 
 Got a giggle worthy of a tip? 
 ⚡ Lightning Bitcoin Tips Accepted https://tippin.me/@antic
