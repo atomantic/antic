@@ -16,7 +16,7 @@ Prerequisites:
 
 In particular, this community seeks the following types of contributions:
 
-- **Jokesa**: If you know a really good one-liner that isn't in the list, make a Pull-Request :)
+- **Jokes**: If you know a really good one-liner that isn't in the list, make a Pull-Request :)
 - **Lulz**: The project also includes LOL ascii emoticons that randomly react to the joke
 
 # Conduct
