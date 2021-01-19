@@ -9,6 +9,9 @@ module.exports = [
     ,'I wish I could love unicorns, but love isn’t real.'
     ,'A man walks into a bar and ask for a beer.\nThe bartender is a horse but pours one anyway.\nThe man says, "This isn’t a beer," and promptly wakes up in a cold sweat, staring into the loveless eyes of his partner, who has been watching him sleep with a knife raised over his head.\nThe man jolts awake a second time and finds himself back in the bar, holding the glass of liquid.\n"Well, I’ll drink it anyway."\nThe horse says nothing.\n ⇒ That isn’t a joke; it’s your fortune.'
     ,'The oil excavators attempted in vain to clean up the spill.\nIt was crude.'
+    ,'I have a Zeno\'s paradox joke but I can never get to the end'
+    ,'I have a Heisenberg joke but I don\'t know how long it takes'
+    ,'I have a Schrödinger joke. It\'s funny and it\'s not.'
 
     // found and overheard by https://github.com/atomantic
     // this is apparently the Dutch equivalent common-knowledge joke of "why did the chicken cross the road"
@@ -29,7 +32,7 @@ module.exports = [
     ,'Whose cruel idea was it for the word ’lisp’ to have an ’s’ in it?'
     ,'Why is there no other word for thesaurus?'
     ,'Is there another word for synonym?'
-    ,'A man falls from the rooftop of a 20 story building. People on the 10th floor hear him falling, "So faaaaar so gooooood!"'
+    ,'A man falls from the rooftop of a 60 story building. People on the 30th floor hear him falling, "So faaaaar so gooooood!"'
     ,'A boy says to his mother, "Mom, why is it everyone in our family dies so young?"\n ⇒ \n"Mother?"\n\n\n"Mother?"'
     ,'A man goes into a confessional and says, "Father, I\'ve done something terrible. I\'ve murdered a man. And I have these horrible thoughts. I want to kill so many more people. I don\'t know if I can stop myself. What should I do?"\nThe priest says, "My son, the punishment for killing one of Gods children is eternal damnation. You\'d be a fool to stop now."'
     // https://www.reddit.com/r/dadjokes/comments/bw6qrb/before_my_surgery_the_anesthetist_offered_to/
@@ -52,7 +55,7 @@ module.exports = [
     ,'“I’m sorry” and “I apologize” mean the same thing... except when you’re at a funeral.'
     ,'I used to think the brain was the most important organ.\n ⇒  Then I thought, "Look what’s telling me that!"'
     ,'If I’ve told you once, I’ve told you a million times: Don’t exaggerate!'
-    ,'It’s hard to explain puns to kleptomaniacs because they always take things literally.'
+    ,'It’s hard to explain puns to kleptomaniacs because they always take things, literally.'
     ,'Did you hear about the new corduroy pillows?\n ⇒  They’re making headlines everywhere!'
     ,'I wondered why the baseball was getting bigger. Then it hit me.'
     ,'I started a band called 999 Megabytes — we don’t have a gig yet.'
