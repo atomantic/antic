@@ -1,0 +1,332 @@
+{
+    "I told my wife she was drawing her eyebrows too high. She looked surprised.": {
+        "funniness": 7,
+        "originality": 6,
+        "cleverness": 8
+    },
+    "Why don't scientists trust atoms? Because they make up everything!": {
+        "funniness": 8,
+        "originality": 5,
+        "cleverness": 9
+    },
+    "I'm reading a book on anti-gravity. It's impossible to put down!": {
+        "funniness": 7,
+        "originality": 7,
+        "cleverness": 8
+    },
+    "I used to be a baker, but I couldn't make enough dough.": {
+        "funniness": 6,
+        "originality": 6,
+        "cleverness": 7
+    },
+    "I have a fear of speed bumps. I'm slowly getting over it.": {
+        "funniness": 7,
+        "originality": 7,
+        "cleverness": 8
+    },
+    "My computer caught a virus, so I gave it a firewall.": {
+        "funniness": 7,
+        "originality": 6,
+        "cleverness": 7
+    },
+    "I'm on a seafood diet. I see food, and I eat it.": {
+        "funniness": 8,
+        "originality": 7,
+        "cleverness": 8
+    },
+    "I used to play piano by ear, but now I use my hands.": {
+        "funniness": 7,
+        "originality": 7,
+        "cleverness": 8
+    },
+    "I'm so good at sleeping, I can do it with my eyes closed.": {
+        "funniness": 6,
+        "originality": 6,
+        "cleverness": 7
+    },
+    "I'm writing a book about reverse psychology. Please don't read it.": {
+        "funniness": 7,
+        "originality": 8,
+        "cleverness": 9
+    },
+    "I'm on a whiskey diet. I've lost three days already.": {
+        "funniness": 8,
+        "originality": 7,
+        "cleverness": 8
+    },
+    "Why did the scarecrow win an award? Because he was outstanding in his field.": {
+        "funniness": 8,
+        "originality": 7,
+        "cleverness": 8
+    },
+    "I'm trying to organize a hide-and-seek tournament, but good players are really hard to find.": {
+        "funniness": 7,
+        "originality": 8,
+        "cleverness": 8
+    },
+    "What do you call a boomerang that won't come back? A stick.": {
+        "funniness": 7,
+        "originality": 7,
+        "cleverness": 8
+    },
+    "I told my computer I needed a break, and now it won't stop sending me vacation ads.": {
+        "funniness": 7,
+        "originality": 8,
+        "cleverness": 7
+    },
+    "Atom walks into a bar. The bartender tells him to split. Everyone dies.": {
+        "funniness": 4,
+        "originality": 1,
+        "cleverness": 6
+    },
+    "A red ball says to a blue ball, \"I can bounce higher than you!\" The blue ball just sits in silence because it’s an inanimate object with no mouth.": {
+        "funniness": 3,
+        "originality": 1,
+        "cleverness": 7
+    },
+    "git commit -m \"fix typeo\"": {
+        "funniness": 6,
+        "originality": 4,
+        "cleverness": 1
+    },
+    "git commit -m \"once more with feeling\"": {
+        "funniness": 5,
+        "originality": 7,
+        "cleverness": 2
+    },
+    "git commit -m \"synergizing backward overflow for upward mobility\"": {
+        "funniness": 5,
+        "originality": 6,
+        "cleverness": 3
+    },
+    "Hammer walks into a bar. Bartender asks him how work went today. \"Nailed it!\"": {
+        "funniness": 8,
+        "originality": 4,
+        "cleverness": 4
+    },
+    "I wish I could love unicorns, but love isn’t real.": {
+        "funniness": 7,
+        "originality": 9,
+        "cleverness": 1
+    },
+    "A man walks into a bar and ask for a beer.\nThe bartender is a horse but pours one anyway.\nThe man says, \"This isn’t a beer,\" and promptly wakes up in a cold sweat, staring into the loveless eyes of his partner, who has been watching him sleep with a knife raised over his head.\nThe man jolts awake a second time and finds himself back in the bar, holding the glass of liquid.\n\"Well, I’ll drink it anyway.\"\nThe horse says nothing.\n ⇒ That isn’t a joke; it’s your fortune.": {
+        "funniness": 10,
+        "originality": 5,
+        "cleverness": 1
+    },
+    "The oil excavators attempted in vain to clean up the spill.\nIt was crude.": {
+        "funniness": 2,
+        "originality": 2,
+        "cleverness": 1
+    },
+    "I have a Zeno's paradox joke but I can never get to the end": {
+        "funniness": 6,
+        "originality": 6,
+        "cleverness": 8
+    },
+    "I have a Heisenberg joke but I don't know how long it takes": {
+        "funniness": 1,
+        "originality": 7,
+        "cleverness": 5
+    },
+    "I have a Schrödinger joke. It's funny and it's not.": {
+        "funniness": 9,
+        "originality": 9,
+        "cleverness": 2
+    },
+    "A mouse and an elephant are walking across a bridge. The mouse turns to the elephant and says, \"We make a lot of noise.\"": {
+        "funniness": 10,
+        "originality": 1,
+        "cleverness": 1
+    },
+    "Man, I spent a long time at the Gym this morning.\n ⇒ We’ve started calling the bathroom \"the Gym\".": {
+        "funniness": 2,
+        "originality": 8,
+        "cleverness": 10
+    },
+    "Got arrested at the airport. Apparently, security doesn’t appreciate it when you call \"shotgun\" before boarding a plane.": {
+        "funniness": 6,
+        "originality": 4,
+        "cleverness": 6
+    },
+    "You know what you get when you cross a rabbit with a rottweiler?\n ⇒ A rottweiler.": {
+        "funniness": 3,
+        "originality": 9,
+        "cleverness": 6
+    },
+    "You know what you get when you cross a cow with an octopus?\n ⇒ A visit from the ethics committee and immediate withdrawal of your funding.": {
+        "funniness": 10,
+        "originality": 8,
+        "cleverness": 6
+    },
+    "You know why baby ducks walk so softly?\n ⇒ Because they can’t walk, hardly.": {
+        "funniness": 7,
+        "originality": 4,
+        "cleverness": 7
+    },
+    "I farted on the elevator.\n ⇒ It was wrong on so many levels.": {
+        "funniness": 7,
+        "originality": 9,
+        "cleverness": 10
+    },
+    "I once made a belt out of wrist watches; `it was a complete waist of time.": {
+        "funniness": 4,
+        "originality": 7,
+        "cleverness": 4
+    },
+    "A doe walks out of the woods, \"That’s the last time I do that for two bucks.\"": {
+        "funniness": 7,
+        "originality": 1,
+        "cleverness": 6
+    },
+    "You know why dinosours can’t talk?\n ⇒ because they’re dead.": {
+        "funniness": 5,
+        "originality": 4,
+        "cleverness": 10
+    },
+    "I’ve lost my thesaurus. I can’t find the words to describe how upsetting this is.": {
+        "funniness": 10,
+        "originality": 4,
+        "cleverness": 7
+    },
+    "A woman walked into a bar and asked the bartender for a double entendre. So the bartender gave it to her.": {
+        "funniness": 7,
+        "originality": 2,
+        "cleverness": 2
+    },
+    "Whoever put the letter ’b’ in the word ’subtle’ deserves a pat on the back.": {
+        "funniness": 8,
+        "originality": 2,
+        "cleverness": 10
+    },
+    "Whose cruel idea was it for the word ’lisp’ to have an ’s’ in it?": {
+        "funniness": 7,
+        "originality": 3,
+        "cleverness": 9
+    },
+    "Why is there no other word for thesaurus?": {
+        "funniness": 10,
+        "originality": 7,
+        "cleverness": 10
+    },
+    "Is there another word for synonym?": {
+        "funniness": 3,
+        "originality": 10,
+        "cleverness": 2
+    },
+    "A man falls from the rooftop of a 60 story building. People on the 30th floor hear him falling, \"So faaaaar so gooooood!\"": {
+        "funniness": 6,
+        "originality": 8,
+        "cleverness": 3
+    },
+    "A boy says to his mother, \"Mom, why is it everyone in our family dies so young?\"\n ⇒ \n\"Mother?\"\n\n\n\"Mother?\"": {
+        "funniness": 3,
+        "originality": 1,
+        "cleverness": 4
+    },
+    "A man goes into a confessional and says, \"Father, I've done something terrible. I've murdered a man. And I have these horrible thoughts. I want to kill so many more people. I don't know if I can stop myself. What should I do?\"\nThe priest says, \"My son, the punishment for killing one of Gods children is eternal damnation. You'd be a fool to stop now.\"": {
+        "funniness": 7,
+        "originality": 6,
+        "cleverness": 5
+    },
+    "Before surgery, my anesthesiologist offered to put me under with gas or a boat paddle.\n ⇒ It was an ether/oar situation.": {
+        "funniness": 6,
+        "originality": 7,
+        "cleverness": 1
+    },
+    "My friend likes to impress girls by drawing detailed pictures of a Ford F-150.\n ⇒ He's a pickup artist.": {
+        "funniness": 9,
+        "originality": 1,
+        "cleverness": 8
+    },
+    "My friend couldn't afford to pay his water bill.\n ⇒ I sent him a \"Get Well Soon\" card": {
+        "funniness": 6,
+        "originality": 6,
+        "cleverness": 4
+    },
+    "Of all the inventions of the last 100 years, the dry erase board has to be the most remarkable.": {
+        "funniness": 5,
+        "originality": 4,
+        "cleverness": 3
+    },
+    "My wife screamed \"you haven't listened to a single word I've said, have you?!\"\n ⇒ What a weird way to start a conversation.": {
+        "funniness": 4,
+        "originality": 6,
+        "cleverness": 10
+    },
+    "My wife is really mad at the fact that I have no sense of direction.\n ⇒ So I packed up my stuff and right.": {
+        "funniness": 1,
+        "originality": 6,
+        "cleverness": 9
+    },
+    "Two drunk guys were about to get into a fight. One draws a line in the dirt and says, “If you cross this line, I’ll hit you in the face.”\n ⇒ That was the punchline.": {
+        "funniness": 1,
+        "originality": 3,
+        "cleverness": 2
+    },
+    "Asked My Date To Meet Me At The Gym, But She Never Showed Up...\n ⇒ Guess the two of us aren’t going to work out": {
+        "funniness": 8,
+        "originality": 2,
+        "cleverness": 6
+    },
+    "“I’m sorry” and “I apologize” mean the same thing... except when you’re at a funeral.": {
+        "funniness": 5,
+        "originality": 8,
+        "cleverness": 1
+    },
+    "I used to think the brain was the most important organ.\n ⇒  Then I thought, \"Look what’s telling me that!\"": {
+        "funniness": 5,
+        "originality": 2,
+        "cleverness": 4
+    },
+    "If I’ve told you once, I’ve told you a million times: Don’t exaggerate!": {
+        "funniness": 9,
+        "originality": 10,
+        "cleverness": 2
+    },
+    "It’s hard to explain puns to kleptomaniacs because they always take things, literally.": {
+        "funniness": 10,
+        "originality": 5,
+        "cleverness": 5
+    },
+    "Did you hear about the new corduroy pillows?\n ⇒  They’re making headlines everywhere!": {
+        "funniness": 8,
+        "originality": 1,
+        "cleverness": 5
+    },
+    "I wondered why the baseball was getting bigger. Then it hit me.": {
+        "funniness": 2,
+        "originality": 6,
+        "cleverness": 9
+    },
+    "I started a band called 999 Megabytes — we don’t have a gig yet.": {
+        "funniness": 6,
+        "originality": 8,
+        "cleverness": 7
+    },
+    "What is red and smells like blue paint?\n ⇒ Red paint.": {
+        "funniness": 3,
+        "originality": 4,
+        "cleverness": 1
+    },
+    "Why was six afraid of seven? It wasn’t. Numbers aren’t sentient and thus incapable of feeling fear.": {
+        "funniness": 6,
+        "originality": 2,
+        "cleverness": 7
+    },
+    "A horse walked into a bar. Several people got up and left as they spotted the potential danger in the situation.": {
+        "funniness": 10,
+        "originality": 8,
+        "cleverness": 4
+    },
+    "What’s green and has wheels? Grass. I lied about the wheels.": {
+        "funniness": 7,
+        "originality": 8,
+        "cleverness": 10
+    },
+    "I used to be addicted to soap, but I'm clean now.": {
+        "funniness": 2,
+        "originality": 3,
+        "cleverness": 3
+    }
+}
